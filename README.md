@@ -49,7 +49,7 @@ Each project in this repository follows a standardized transformation workflow:
 
 | Language | Example            | Legacy Tech         | Modern Tech               |
 |----------|--------------------|---------------------|---------------------------|
-| Java     | `mini-spring`      | Spring Framework 3  | Spring Framework 6             |
+| Java     | `mini-spring`      | Spring Framework 4  | Spring Framework 6             |
 | Java     | `merabazaar`       | Spring Framwork 4      | Spring Framework 6  |
 | .NET     | `asp.net-mvc5-architecture` | ASP.NET MVC 5     | ASP.NET Core MVC         |
 | .NET     | `wcf-sample-project`       | WCF Services       | CoreWCF Services     |
