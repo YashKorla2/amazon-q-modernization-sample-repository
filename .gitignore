@@ -1,0 +1,38 @@
+# Global ignores
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Java (Maven/Gradle)
+target/
+out/
+*.class
+*.jar
+*.war
+*.iml
+.gradle/
+build/
+.mvn/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.csproj.user
+*.vspx
+*.vs/
+*.ncrunchproject
+packages/
+
+# Node (in case you use JS tools in modern UIs)
+node_modules/
+dist/
+.env
+
+# IDEs
+.idea/
+.vscode/
+*.code-workspace
