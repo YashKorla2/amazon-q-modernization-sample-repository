@@ -68,7 +68,6 @@ dotnet run
 Each project includes:
 
 - `README.md` – How to build/run the legacy and modern versions
-- `MODERNIZATION_NOTES.md` (in `/after`) – Modernization steps, automated vs manual breakdown, known issues
 
 ---
 

@@ -31,14 +31,8 @@ Each subfolder contains a runnable version of the app and relevant documentation
 
 ## 🧾 Modernization Summary
 
-A detailed explanation of the transformation, including:
-
-- Automation vs Manual breakdown
-- Key changes made to architecture, configurations, or dependencies
-- Challenges and resolution steps
-
-…can be found in `MODERNIZATION_NOTES.md`
-
+- A detailed explanation of the transformation can be found in `summary.md` file.
+  
 ---
 
 ## 📌 Notes

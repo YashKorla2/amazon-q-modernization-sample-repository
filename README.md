@@ -43,15 +43,13 @@ Each project in this repository follows a standardized transformation workflow:
 3. **Manual Intervention** – Apply minimal tweaks, configurations, or fixes.
 4. **Validation** – Ensure functional parity and build/run correctness.
 
-> 💡 Each project has a `README.md` and a `MODERNIZATION_NOTES.md` in the `after/` folder to document this process.
-
 ---
 
 ## 🧪 What’s Included
 
 | Language | Example            | Legacy Tech         | Modern Tech               |
 |----------|--------------------|---------------------|---------------------------|
-| Java     | `mini-spring`      | Spring Framework 3  | Spring Framework 6             |
+| Java     | `mini-spring`      | Spring Framework 4  | Spring Framework 6             |
 | Java     | `merabazaar`       | Spring Framwork 4      | Spring Framework 6  |
 | .NET     | `asp.net-mvc5-architecture` | ASP.NET MVC 5     | ASP.NET Core MVC         |
 | .NET     | `wcf-sample-project`       | WCF Services       | CoreWCF Services     |
