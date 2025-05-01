@@ -43,8 +43,6 @@ Each project in this repository follows a standardized transformation workflow:
 3. **Manual Intervention** – Apply minimal tweaks, configurations, or fixes.
 4. **Validation** – Ensure functional parity and build/run correctness.
 
-> 💡 Each project has a `README.md` and a `MODERNIZATION_NOTES.md` in the `after/` folder to document this process.
-
 ---
 
 ## 🧪 What’s Included
