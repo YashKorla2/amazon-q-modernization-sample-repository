@@ -31,7 +31,8 @@ Each subfolder contains a runnable version of the app and relevant documentation
 
 ## 🧾 Modernization Summary
 
-A detailed explanation of the transformation can be found in `summary.md` file.
+- A detailed explanation of the transformation can be found in `summary.md` file.
+  
 ---
 
 ## 📌 Notes
